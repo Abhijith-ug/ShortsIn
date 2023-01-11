@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#5C0E83</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#F53434</color>
+    <color name="background">#DDDADA</color>
+    <color name="cardview">#FFFFFFFF</color>
+    <color name="button_welcome">#5C0E83</color>
+    <color name="login">#F53434</color>
+    <color name="edit_text_background">#EAE7E7</color>
+    <color name="registerbtn3">#24012B</color>
+    <color name="trans_black_ripple">#22000000</color>
+    <color name="grey">#E2E2E2</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+
+    <!-- App colors -->
+    <color name="app_pink">#FC5185</color>
+    <color name="app_off_white">#F5F5F5</color>
+    <color name="app_green">#3FC1C9</color>
+    <color name="app_navy_blue">#364F6B</color>
+    <color name="app_background_white">#f4f5f4</color>
+
+    <!-- Custom colors-->
+    <color name="light_grey">#C2C2C2</color>
+    <color name="very_light_grey">#F3F3F3</color>
+
+    <!-- Text colors-->
+    <color name="text_grey">#474646</color>
+
+</resources>

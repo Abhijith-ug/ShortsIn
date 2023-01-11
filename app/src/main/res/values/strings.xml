@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">My MVVM NEWS APP</string>
+
+    <!-- Bottom navigation menu-->
+    <string name="breaking_news">Breaking News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="search_news">Search News</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcom">Welcome</string>
+    <string name="sign_up">Sign up</string>
+<!--    <string name="register">Register</string>-->
+    <string name="et_username">Username</string>
+    <string name="et_signup_email">Email Id</string>
+    <string name="dont_account">Don\'t have an account?</string>
+    <string name="registerstr">Register</string>
+    <string name="login_with_mobile_number">Login with mobile number</string>
+<!--    <string name="get_otp">Get Otp</string>-->
+    <string name="enter_your_moblie_number">Enter Your Mobile Number</string>
+<!--    <string name="logout">logout</string>-->
+    <string name="no_saved_news">No Saved News</string>
+    <string name="exclusive_news">Exclusive News</string>
+    <string name="get_started">Get Started</string>
+<!--    <string name="register_with_your_mobile_number">Register with your phone number</string>-->
+<!--    <string name="explore_all_the_most_exiting_news_based_on_your_interest_and_country">Explore all the most exciting news</string>-->
+<!--    <string name="change_phone_number">Change phone number</string>-->
+
+    <string-array name="countries">
+        <item>USA</item>
+        <item>INDIA</item>
+        <item>AUSTRALIA</item>
+        <item>FRANCE</item>
+        <item>UNITED KINGDOM</item>
+    </string-array>
+
+    <!-- Error messages-->
+    <string name="registration_failed_please_check_entered_phone_number">Registration failed, please check entered phone number</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="no_name">No Name</string>
+    <string name="not_available">Not Available</string>
+    <string name="time_read">Time Read</string>
+    <string name="articles_read">Articles Read</string>
+    <string name="user_info">User Info</string>
+    <string name="full_name">Full Name</string>
+<!--    <string name="email">Email</string>-->
+
+    <!-- User Activity-->
+    <string name="discover_your_daily_news_here">Discover your Daily news Here</string>
+    <string name="explore_all_the_most_exiting_news_based_on_your_interest_and_country">Explore all the most exiting news based on your interest and country</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="hello_again">Hello Again!</string>
+    <string name="welcome_back_you_ve_been_missed">Welcome back, you\'ve been missed!</string>
+    <string name="register_with_your_mobile_number">Register with your phone number</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="hello">Hello!</string>
+    <string name="register_for_daily_hot_news_on_figer_tips">Register for daily hot news on figer tips</string>
+    <string name="email">Email</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="change_phone_number">Change phone number</string>
+    <string name="no_exclusive_news">Subscribe For Exclusive</string>
+
+
+</resources>
